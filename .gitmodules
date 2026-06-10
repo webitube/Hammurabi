@@ -1,0 +1,3 @@
+[submodule "ProjectTemplate"]
+	path = ProjectTemplate
+	url = https://github.com/webitube/ProjectTemplate.git
